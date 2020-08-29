@@ -25,7 +25,7 @@ import { generate } from "./generate.ts";
 
 // Init
 const program = new Command("license");
-program.version("0.1.0", "-v, --version");
+program.version("1.0.0", "-v, --version");
 
 // Util
 
