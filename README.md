@@ -2,6 +2,25 @@
 
 Get quickly on with your license file by automatically generating one!
 
+## Features
+
+- Automatically generate a license file for your project.
+- Automatically tries generate all properties for you, such as the current year, your name and your project name.
+
+## Example
+
+```text
+$ license g mit
+✨ Done!
+```
+
+However it is possible to override the name:
+
+```text
+$ license g mit -a "author name"
+✨ Done!
+```
+
 ## Installation
 
 ```shell
