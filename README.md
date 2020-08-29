@@ -11,6 +11,7 @@ deno install \
 	--allow-read \
 	--allow-run \
 	--allow-env \
+	-n license \
 	https://deno.land/x/license/cli.ts
 ```
 
