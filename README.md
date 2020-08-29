@@ -1,6 +1,6 @@
 # license
 
-Get quickly on with your license file by automatically generating one!
+Get quickly on with your license file by quickly generating one!
 
 ## Features
 
